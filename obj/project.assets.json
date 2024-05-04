@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Larissa\\OneDrive\\Área de Trabalho\\cursoDotnet\\cursoDotnet.csproj",
+      "projectUniqueName": "C:\\informatica\\cursoDotnet\\cursoDotnet.csproj",
       "projectName": "cursoDotnet",
-      "projectPath": "C:\\Users\\Larissa\\OneDrive\\Área de Trabalho\\cursoDotnet\\cursoDotnet.csproj",
+      "projectPath": "C:\\informatica\\cursoDotnet\\cursoDotnet.csproj",
       "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Larissa\\OneDrive\\Área de Trabalho\\cursoDotnet\\obj\\",
+      "outputPath": "C:\\informatica\\cursoDotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
