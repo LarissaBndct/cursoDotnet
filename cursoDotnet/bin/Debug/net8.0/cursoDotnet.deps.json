@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cursoDotnet/1.0.0": {
+        "dependencies": {
+          "cursoDotnet.Common": "1.0.0"
+        },
+        "runtime": {
+          "cursoDotnet.dll": {}
+        }
+      },
+      "cursoDotnet.Common/1.0.0": {
+        "runtime": {
+          "cursoDotnet.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cursoDotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cursoDotnet.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

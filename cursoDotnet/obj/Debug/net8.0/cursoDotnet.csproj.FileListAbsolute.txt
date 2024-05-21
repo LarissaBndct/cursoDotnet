@@ -1,0 +1,48 @@
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\bin\Debug\net8.0\cursoDotnet.exe
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\bin\Debug\net8.0\cursoDotnet.deps.json
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\bin\Debug\net8.0\cursoDotnet.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\bin\Debug\net8.0\cursoDotnet.dll
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\bin\Debug\net8.0\cursoDotnet.pdb
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.dll
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\refint\cursoDotnet.dll
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.pdb
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\cursoDotnet.genruntimeconfig.cache
+C:\Users\Larissa\OneDrive\Área de Trabalho\cursoDotnet\obj\Debug\net8.0\ref\cursoDotnet.dll
+c:\informatica\cursoDotnet\bin\Debug\net8.0\cursoDotnet.exe
+c:\informatica\cursoDotnet\bin\Debug\net8.0\cursoDotnet.deps.json
+c:\informatica\cursoDotnet\bin\Debug\net8.0\cursoDotnet.runtimeconfig.json
+c:\informatica\cursoDotnet\bin\Debug\net8.0\cursoDotnet.dll
+c:\informatica\cursoDotnet\bin\Debug\net8.0\cursoDotnet.pdb
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfoInputs.cache
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfo.cs
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.csproj.CoreCompileInputs.cache
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.sourcelink.json
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.dll
+c:\informatica\cursoDotnet\obj\Debug\net8.0\refint\cursoDotnet.dll
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.pdb
+c:\informatica\cursoDotnet\obj\Debug\net8.0\cursoDotnet.genruntimeconfig.cache
+c:\informatica\cursoDotnet\obj\Debug\net8.0\ref\cursoDotnet.dll
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.exe
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.deps.json
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.runtimeconfig.json
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.dll
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.pdb
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.Common.dll
+C:\informatica\cursoDotnet\cursoDotnet\bin\Debug\net8.0\cursoDotnet.Common.pdb
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.csproj.AssemblyReference.cache
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfoInputs.cache
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.AssemblyInfo.cs
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.csproj.CoreCompileInputs.cache
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.sourcelink.json
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDot.C489B15B.Up2Date
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.dll
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\refint\cursoDotnet.dll
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.pdb
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\cursoDotnet.genruntimeconfig.cache
+C:\informatica\cursoDotnet\cursoDotnet\obj\Debug\net8.0\ref\cursoDotnet.dll

@@ -1,0 +1,12 @@
+C:\informatica\cursoDotnet\cursoDotnet.Common\bin\Debug\net8.0\cursoDotnet.Common.deps.json
+C:\informatica\cursoDotnet\cursoDotnet.Common\bin\Debug\net8.0\cursoDotnet.Common.dll
+C:\informatica\cursoDotnet\cursoDotnet.Common\bin\Debug\net8.0\cursoDotnet.Common.pdb
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.AssemblyInfoInputs.cache
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.AssemblyInfo.cs
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.csproj.CoreCompileInputs.cache
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.sourcelink.json
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.dll
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\refint\cursoDotnet.Common.dll
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\cursoDotnet.Common.pdb
+C:\informatica\cursoDotnet\cursoDotnet.Common\obj\Debug\net8.0\ref\cursoDotnet.Common.dll
