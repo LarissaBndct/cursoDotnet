@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DDQFhvpzDqgpGwolxHSPvsP4nD1vFmeQbygDt9nVv0umUtsWSS8rPD5RThONoBryK60+PSf1RKSON1oavzzVjw==",
+  "dgSpecHash": "NFDacZy8NihxMa5K0bHJRe3EbqCpZyLvkR6ceWBMkLgBHdn6mgMxp40LptLT4ut7y4hIh+SIhDmfE86ypqgatA==",
   "success": true,
-  "projectFilePath": "C:\\informatica\\cursoDotnet\\cursoDotnet.Common\\cursoDotnet.Common.csproj",
+  "projectFilePath": "c:\\informatica\\cursoDotnet\\cursoDotnet.Common\\cursoDotnet.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

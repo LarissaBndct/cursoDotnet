@@ -1,19 +1,63 @@
 ﻿using System.ComponentModel;
 using cursoDotnet.Common.Models;
 
-int[] arrayInteiros = new int[3];
+int[] arrayInteiros = new int[4];
 
 arrayInteiros[0] = 72;
 arrayInteiros[1] = 64;
 arrayInteiros[2] = 50;
-//arrayInteiros[3] = 1;
+arrayInteiros[3] = 1;
 
-for (int contador = 0; contador <= arrayInteiros.Length; contador++)
+//declarando um novo array e depois copiando o array antigo para o novo
+
+ int[] arrayInteirosDobrado = new int[arrayInteiros.Length *2];
+ Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+// //redimensionar array
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length *2);
+
+//percorrendo array com o for
+Console.WriteLine("Percorrendo o array com o for");
+for (int contador = 0; contador < arrayInteiros.Length; contador++)
 {
-    
+    Console.WriteLine($"Posição Nº{contador} = {arrayInteiros[contador]}");
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Percorrendo o array com Foreach");
+// int contadorForeach = 0;
+// //percorrendo array com o foreach
+// foreach(int valor in arrayInteiros)
+// {
+//     Console.WriteLine($"Posição Nº{contadorForeach} = {valor}");
+//     contadorForeach++;
+// }
 
 
 
